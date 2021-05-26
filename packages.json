@@ -1,0 +1,22 @@
+[
+    {
+        "package": "meetupr",
+        "url": "https://github.com/rladies/meetupr"
+    },
+    {
+        "package": "cvAUC",
+        "url": "https://github.com/ledell/cvAUC"
+    },
+    {
+        "package": "subsemble",
+        "url": "https://github.com/ledell/subsemble"
+    },
+    {
+        "package": "SuperLearner",
+        "url": "https://github.com/ecpolley/SuperLearner"
+    },
+    {
+        "package": "rHealthDataGov",
+        "url": "https://github.com/rOpenHealth/rHealthDataGov"
+    }
+]
